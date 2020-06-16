@@ -1,0 +1,14 @@
+{
+  "projects": {
+    "default": "luis-sousa-cv"
+  },
+  "targets": {
+    "luis-sousa-cv": {
+      "hosting": {
+        "luis-sousa-cv": [
+          "luis-sousa"
+        ]
+      }
+    }
+  }
+}
